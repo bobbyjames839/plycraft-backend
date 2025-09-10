@@ -9,7 +9,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "https://plycraft-frontend.vercel.app"],  
+    allow_origins=["http://localhost:3000", "https://plycraft-frontend.vercel.app", "https://www.plycraft.co.uk"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
