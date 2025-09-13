@@ -21,8 +21,8 @@ class ContactIn(BaseModel):
 
 
 def send_mail(subject: str, body: str, *, to_email: str, from_email: str) -> None:
-    host = os.getenv("SMTP_HOST", "smtp.gmail.com")
-    port = int(os.getenv("SMTP_PORT", "587"))
+    host = os.getenv("SMTP_HOST")
+    port = int(os.getenv("SMTP_PORT"))
     username = os.getenv("SMTP_USERNAME")
     password = os.getenv("SMTP_PASSWORD")
 
@@ -46,7 +46,7 @@ def send_mail(subject: str, body: str, *, to_email: str, from_email: str) -> Non
 
 @router.post("/contact/send")
 def contact_send(payload: ContactIn):
-    to_email = os.getenv("MAIL_TO", "bobbyjames839@gmail.com")
+    to_email = os.getenv("MAIL_TO")
 
     subject = payload.subject or "New contact message from PlyCraft"
     body = (
