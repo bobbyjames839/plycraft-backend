@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Table 1",
+        "title": "Round dining table",
         "subtitle": "This is the subtitle for table 1",
         "description": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "id": 2,
-        "title": "Table 2",
+        "title": "Rectangular dining table",
         "subtitle": "This is the subtitle for table 2",
         "description": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "id": 3,
-        "title": "Table 3",
+        "title": "Round coffee table",
         "subtitle": "This is the subtitle for table 3",
         "description": [
             {
@@ -85,7 +85,7 @@
     },
     {
         "id": 4,
-        "title": "Table 4",
+        "title": "Rectangular coffee table",
         "subtitle": "This is the subtitle for table 4",
         "description": [
             {
@@ -113,7 +113,7 @@
     },
     {
         "id": 5,
-        "title": "Desk 1",
+        "title": "Desk with plywood legs",
         "subtitle": "This is the subtitle for desk 1",
         "description": [
             {
@@ -141,7 +141,7 @@
     },
     {
         "id": 6,
-        "title": "Desk 2",
+        "title": "Desk with metal legs",
         "subtitle": "This is the subtitle for Desk 2",
         "description": [
             {
@@ -169,7 +169,7 @@
     },
     {
         "id": 7,
-        "title": "Desk 3",
+        "title": "2-Drawer Unit (No Legs)",
         "subtitle": "This is the subtitle for Desk 3",
         "description": [
             {
@@ -192,12 +192,12 @@
                 }
             }
         ],
-        "category": "desk",
+        "category": "drawers",
         "image": "/static/images/product2.png"
     },
     {
         "id": 8,
-        "title": "Desk 4",
+        "title": "1-Drawer Unit (With Legs)",
         "subtitle": "This is the subtitle for Desk 4",
         "description": [
             {
@@ -220,12 +220,12 @@
                 }
             }
         ],
-        "category": "desk",
+        "category": "drawers",
         "image": "/static/images/product2.png"
     },
     {
         "id": 9,
-        "title": "Drawer 1",
+        "title": "Single Shelf",
         "subtitle": "This is the subtitle for Drawer 1",
         "description": [
             {
@@ -248,12 +248,12 @@
                 }
             }
         ],
-        "category": "drawer",
+        "category": "shelves",
         "image": "/static/images/product3.png"
     },
     {
         "id": 10,
-        "title": "Drawer 2",
+        "title": "Box Shelf",
         "subtitle": "This is the subtitle for Drawer 2",
         "description": [
             {
@@ -276,12 +276,12 @@
                 }
             }
         ],
-        "category": "drawer",
+        "category": "shelves",
         "image": "/static/images/product3.png"
     },
     {
         "id": 11,
-        "title": "Drawer 3",
+        "title": "Shelf with Metal Brackets",
         "subtitle": "This is the subtitle for Drawer 3",
         "description": [
             {
@@ -304,12 +304,12 @@
                 }
             }
         ],
-        "category": "drawer",
+        "category": "shelves",
         "image": "/static/images/product3.png"
     },
     {
         "id": 12,
-        "title": "Drawer 4",
+        "title": "Shelf with Plywood Brackets",
         "subtitle": "This is the subtitle for Drawer 4",
         "description": [
             {
@@ -332,12 +332,12 @@
                 }
             }
         ],
-        "category": "drawer",
+        "category": "shelves",
         "image": "/static/images/product3.png"
     },
     {
         "id": 13,
-        "title": "Shelves 1",
+        "title": "Shelf with Hidden Brackets",
         "subtitle": "This is the subtitle for Shelves 1",
         "description": [
             {
@@ -365,7 +365,7 @@
     },
     {
         "id": 14,
-        "title": "Shelves 2",
+        "title": "Storage Bench Box",
         "subtitle": "This is the subtitle for Shelves 2",
         "description": [
             {
@@ -388,12 +388,12 @@
                 }
             }
         ],
-        "category": "shelves",
-        "image": "/static/images/product4.png"
+        "category": "storage",
+        "image": "/static/images/modular_storage.png"
     },
     {
         "id": 15,
-        "title": "Shelves 3",
+        "title": "Modular Storage Unit",
         "subtitle": "This is the subtitle for Shelves 3",
         "description": [
             {
@@ -416,12 +416,12 @@
                 }
             }
         ],
-        "category": "shelves",
-        "image": "/static/images/product4.png"
+        "category": "storage",
+        "image": "/static/images/modular_storage.png"
     },
     {
         "id": 16,
-        "title": "Shelves 4",
+        "title": "Bench with Metal Legs",
         "subtitle": "This is the subtitle for Shelves 4",
         "description": [
             {
@@ -444,7 +444,203 @@
                 }
             }
         ],
-        "category": "shelves",
+        "category": "seating",
+        "image": "/static/images/product4.png"
+    },
+    {
+        "id": 17,
+        "title": "Bench with Plywood Legs",
+        "subtitle": "This is the subtitle for TV Stand 1",
+        "description": [
+            {
+                "basic": "A refined, everyday table designed for calm spaces. Each piece is built from kiln‑dried, sustainably sourced hardwoods. Edges are softened for comfort, joinery is engineered for decades of use, and the surface is finished in a durable, repairable hardwax oil that develops a rich patina with everyday care.",
+                "colours": {
+                    "title": "Colours",
+                    "description": "Offered in Natural Oak, American Walnut, and Ebonized Ash as standard. Tone and figure vary naturally from board to board; we select and grain‑match for a balanced appearance. Custom woods and stain tones (including mid‑brown and warm umber) are available on request, with finish samples provided for approval."
+                },
+                "size": {
+                    "title": "Size",
+                    "description": "Standard lengths range from 120–240 cm with widths between 70–100 cm; height is set to 75 cm for comfortable dining and work. Common formats include 180 × 90 cm (seats 6) and 220 × 95 cm (seats 8). We regularly produce custom dimensions to suit room layout, seating, and circulation; tolerances are held within ±2 mm."
+                },
+                "style": {
+                    "title": "Style",
+                    "description": "Minimal, modern proportions with soft radiused edges for a calm, tactile silhouette. Subtle shadow lines and slender under‑profiles keep the piece visually light, while the low‑sheen finish highlights natural grain without glare. Leg placement and profiles are tuned to maximize knee clearance and seating flexibility."
+                },
+                "materials": {
+                    "title": "Details",
+                    "description": "Solid‑wood construction throughout with mortise‑and‑tenon joinery at major intersections. Boards are selected for grain flow and oriented to accommodate seasonal movement. Underside bracing adds rigidity without bulk. Leveling glides protect floors and allow micro‑adjustments. Finish can be refreshed locally; care kit and guidance included."
+                }
+            }
+        ],
+        "category": "seating",
+        "image": "/static/images/product4.png"
+    },
+    {
+        "id": 18,
+        "title": "Round Stool with Metal Legs",
+        "subtitle": "This is the subtitle for TV Stand 2",
+        "description": [
+            {
+                "basic": "A refined, everyday table designed for calm spaces. Each piece is built from kiln‑dried, sustainably sourced hardwoods. Edges are softened for comfort, joinery is engineered for decades of use, and the surface is finished in a durable, repairable hardwax oil that develops a rich patina with everyday care.",
+                "colours": {
+                    "title": "Colours",
+                    "description": "Offered in Natural Oak, American Walnut, and Ebonized Ash as standard. Tone and figure vary naturally from board to board; we select and grain‑match for a balanced appearance. Custom woods and stain tones (including mid‑brown and warm umber) are available on request, with finish samples provided for approval."
+                },
+                "size": {
+                    "title": "Size",
+                    "description": "Standard lengths range from 120–240 cm with widths between 70–100 cm; height is set to 75 cm for comfortable dining and work. Common formats include 180 × 90 cm (seats 6) and 220 × 95 cm (seats 8). We regularly produce custom dimensions to suit room layout, seating, and circulation; tolerances are held within ±2 mm."
+                },
+                "style": {
+                    "title": "Style",
+                    "description": "Minimal, modern proportions with soft radiused edges for a calm, tactile silhouette. Subtle shadow lines and slender under‑profiles keep the piece visually light, while the low‑sheen finish highlights natural grain without glare. Leg placement and profiles are tuned to maximize knee clearance and seating flexibility."
+                },
+                "materials": {
+                    "title": "Details",
+                    "description": "Solid‑wood construction throughout with mortise‑and‑tenon joinery at major intersections. Boards are selected for grain flow and oriented to accommodate seasonal movement. Underside bracing adds rigidity without bulk. Leveling glides protect floors and allow micro‑adjustments. Finish can be refreshed locally; care kit and guidance included."
+                }
+            }
+        ],
+        "category": "seating",
+        "image": "/static/images/product4.png"
+    },
+    {
+        "id": 19,
+        "title": "Round Stool with Plywood Legs",
+        "subtitle": "This is the subtitle for TV Stand 3",
+        "description": [
+            {
+                "basic": "A refined, everyday table designed for calm spaces. Each piece is built from kiln‑dried, sustainably sourced hardwoods. Edges are softened for comfort, joinery is engineered for decades of use, and the surface is finished in a durable, repairable hardwax oil that develops a rich patina with everyday care.",
+                "colours": {
+                    "title": "Colours",
+                    "description": "Offered in Natural Oak, American Walnut, and Ebonized Ash as standard. Tone and figure vary naturally from board to board; we select and grain‑match for a balanced appearance. Custom woods and stain tones (including mid‑brown and warm umber) are available on request, with finish samples provided for approval."
+                },
+                "size": {
+                    "title": "Size",
+                    "description": "Standard lengths range from 120–240 cm with widths between 70–100 cm; height is set to 75 cm for comfortable dining and work. Common formats include 180 × 90 cm (seats 6) and 220 × 95 cm (seats 8). We regularly produce custom dimensions to suit room layout, seating, and circulation; tolerances are held within ±2 mm."
+                },
+                "style": {
+                    "title": "Style",
+                    "description": "Minimal, modern proportions with soft radiused edges for a calm, tactile silhouette. Subtle shadow lines and slender under‑profiles keep the piece visually light, while the low‑sheen finish highlights natural grain without glare. Leg placement and profiles are tuned to maximize knee clearance and seating flexibility."
+                },
+                "materials": {
+                    "title": "Details",
+                    "description": "Solid‑wood construction throughout with mortise‑and‑tenon joinery at major intersections. Boards are selected for grain flow and oriented to accommodate seasonal movement. Underside bracing adds rigidity without bulk. Leveling glides protect floors and allow micro‑adjustments. Finish can be refreshed locally; care kit and guidance included."
+                }
+            }
+        ],
+        "category": "seating",
+        "image": "/static/images/product4.png"
+    },
+    {
+        "id": 20,
+        "title": "Square Stool with Metal Legs",
+        "subtitle": "This is the subtitle for TV Stand 4",
+        "description": [
+            {
+                "basic": "A refined, everyday table designed for calm spaces. Each piece is built from kiln‑dried, sustainably sourced hardwoods. Edges are softened for comfort, joinery is engineered for decades of use, and the surface is finished in a durable, repairable hardwax oil that develops a rich patina with everyday care.",
+                "colours": {
+                    "title": "Colours",
+                    "description": "Offered in Natural Oak, American Walnut, and Ebonized Ash as standard. Tone and figure vary naturally from board to board; we select and grain‑match for a balanced appearance. Custom woods and stain tones (including mid‑brown and warm umber) are available on request, with finish samples provided for approval."
+                },
+                "size": {
+                    "title": "Size",
+                    "description": "Standard lengths range from 120–240 cm with widths between 70–100 cm; height is set to 75 cm for comfortable dining and work. Common formats include 180 × 90 cm (seats 6) and 220 × 95 cm (seats 8). We regularly produce custom dimensions to suit room layout, seating, and circulation; tolerances are held within ±2 mm."
+                },
+                "style": {
+                    "title": "Style",
+                    "description": "Minimal, modern proportions with soft radiused edges for a calm, tactile silhouette. Subtle shadow lines and slender under‑profiles keep the piece visually light, while the low‑sheen finish highlights natural grain without glare. Leg placement and profiles are tuned to maximize knee clearance and seating flexibility."
+                },
+                "materials": {
+                    "title": "Details",
+                    "description": "Solid‑wood construction throughout with mortise‑and‑tenon joinery at major intersections. Boards are selected for grain flow and oriented to accommodate seasonal movement. Underside bracing adds rigidity without bulk. Leveling glides protect floors and allow micro‑adjustments. Finish can be refreshed locally; care kit and guidance included."
+                }
+            }
+        ],
+        "category": "seating",
+        "image": "/static/images/product4.png"
+    },
+    {
+        "id": 21,
+        "title": "Square Stool with Plywood Legs",
+        "subtitle": "This is the subtitle for Seating 1",
+        "description": [
+            {
+                "basic": "A refined, everyday table designed for calm spaces. Each piece is built from kiln‑dried, sustainably sourced hardwoods. Edges are softened for comfort, joinery is engineered for decades of use, and the surface is finished in a durable, repairable hardwax oil that develops a rich patina with everyday care.",
+                "colours": {
+                    "title": "Colours",
+                    "description": "Offered in Natural Oak, American Walnut, and Ebonized Ash as standard. Tone and figure vary naturally from board to board; we select and grain‑match for a balanced appearance. Custom woods and stain tones (including mid‑brown and warm umber) are available on request, with finish samples provided for approval."
+                },
+                "size": {
+                    "title": "Size",
+                    "description": "Standard lengths range from 120–240 cm with widths between 70–100 cm; height is set to 75 cm for comfortable dining and work. Common formats include 180 × 90 cm (seats 6) and 220 × 95 cm (seats 8). We regularly produce custom dimensions to suit room layout, seating, and circulation; tolerances are held within ±2 mm."
+                },
+                "style": {
+                    "title": "Style",
+                    "description": "Minimal, modern proportions with soft radiused edges for a calm, tactile silhouette. Subtle shadow lines and slender under‑profiles keep the piece visually light, while the low‑sheen finish highlights natural grain without glare. Leg placement and profiles are tuned to maximize knee clearance and seating flexibility."
+                },
+                "materials": {
+                    "title": "Details",
+                    "description": "Solid‑wood construction throughout with mortise‑and‑tenon joinery at major intersections. Boards are selected for grain flow and oriented to accommodate seasonal movement. Underside bracing adds rigidity without bulk. Leveling glides protect floors and allow micro‑adjustments. Finish can be refreshed locally; care kit and guidance included."
+                }
+            }
+        ],
+        "category": "seating",
+        "image": "/static/images/product4.png"
+    },
+    {
+        "id": 22,
+        "title": "TV Stand with Doors",
+        "subtitle": "This is the subtitle for Seating 2",
+        "description": [
+            {
+                "basic": "A refined, everyday table designed for calm spaces. Each piece is built from kiln‑dried, sustainably sourced hardwoods. Edges are softened for comfort, joinery is engineered for decades of use, and the surface is finished in a durable, repairable hardwax oil that develops a rich patina with everyday care.",
+                "colours": {
+                    "title": "Colours",
+                    "description": "Offered in Natural Oak, American Walnut, and Ebonized Ash as standard. Tone and figure vary naturally from board to board; we select and grain‑match for a balanced appearance. Custom woods and stain tones (including mid‑brown and warm umber) are available on request, with finish samples provided for approval."
+                },
+                "size": {
+                    "title": "Size",
+                    "description": "Standard lengths range from 120–240 cm with widths between 70–100 cm; height is set to 75 cm for comfortable dining and work. Common formats include 180 × 90 cm (seats 6) and 220 × 95 cm (seats 8). We regularly produce custom dimensions to suit room layout, seating, and circulation; tolerances are held within ±2 mm."
+                },
+                "style": {
+                    "title": "Style",
+                    "description": "Minimal, modern proportions with soft radiused edges for a calm, tactile silhouette. Subtle shadow lines and slender under‑profiles keep the piece visually light, while the low‑sheen finish highlights natural grain without glare. Leg placement and profiles are tuned to maximize knee clearance and seating flexibility."
+                },
+                "materials": {
+                    "title": "Details",
+                    "description": "Solid‑wood construction throughout with mortise‑and‑tenon joinery at major intersections. Boards are selected for grain flow and oriented to accommodate seasonal movement. Underside bracing adds rigidity without bulk. Leveling glides protect floors and allow micro‑adjustments. Finish can be refreshed locally; care kit and guidance included."
+                }
+            }
+        ],
+        "category": "tv_stands",
+        "image": "/static/images/product4.png"
+    },
+    {
+        "id": 23,
+        "title": "STV Stand without Doors",
+        "subtitle": "This is the subtitle for Seating 3",
+        "description": [
+            {
+                "basic": "A refined, everyday table designed for calm spaces. Each piece is built from kiln‑dried, sustainably sourced hardwoods. Edges are softened for comfort, joinery is engineered for decades of use, and the surface is finished in a durable, repairable hardwax oil that develops a rich patina with everyday care.",
+                "colours": {
+                    "title": "Colours",
+                    "description": "Offered in Natural Oak, American Walnut, and Ebonized Ash as standard. Tone and figure vary naturally from board to board; we select and grain‑match for a balanced appearance. Custom woods and stain tones (including mid‑brown and warm umber) are available on request, with finish samples provided for approval."
+                },
+                "size": {
+                    "title": "Size",
+                    "description": "Standard lengths range from 120–240 cm with widths between 70–100 cm; height is set to 75 cm for comfortable dining and work. Common formats include 180 × 90 cm (seats 6) and 220 × 95 cm (seats 8). We regularly produce custom dimensions to suit room layout, seating, and circulation; tolerances are held within ±2 mm."
+                },
+                "style": {
+                    "title": "Style",
+                    "description": "Minimal, modern proportions with soft radiused edges for a calm, tactile silhouette. Subtle shadow lines and slender under‑profiles keep the piece visually light, while the low‑sheen finish highlights natural grain without glare. Leg placement and profiles are tuned to maximize knee clearance and seating flexibility."
+                },
+                "materials": {
+                    "title": "Details",
+                    "description": "Solid‑wood construction throughout with mortise‑and‑tenon joinery at major intersections. Boards are selected for grain flow and oriented to accommodate seasonal movement. Underside bracing adds rigidity without bulk. Leveling glides protect floors and allow micro‑adjustments. Finish can be refreshed locally; care kit and guidance included."
+                }
+            }
+        ],
+        "category": "tv_stands",
         "image": "/static/images/product4.png"
     }
 ]
